@@ -1,0 +1,7 @@
+{
+    "port": "/dev/tty.usbserial-1130",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "programmer": "arduino:usbtinyisp",
+    "sketch": "solar-water-heating.ino"
+}
